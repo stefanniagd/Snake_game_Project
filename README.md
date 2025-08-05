@@ -12,7 +12,7 @@ It uses the Turtle module from Python and the concept of *class inheritance* and
 You can play by downloading the executable file.  
 Control the Snake by tapping the *arrow keys* on your Keyboard to eat food and grow longer.
 
-<img src="Images.jpg" alt="Screenshot" width="100" height="150">  
+<img src="Images.png" alt="Screenshot" width="100" height="150">  
 
 
 By the way...
