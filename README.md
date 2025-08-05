@@ -16,4 +16,4 @@ Control the Snake by tapping the *arrow keys* on your Keyboard to eat food and g
 
 
 By the way...
-**Polar bears live in the opposite site (Arctic Region North Pole) of he Earth from peguins (Southern Hemisphere, Antartica South Pole), so they never get to meet each other** 🐻‍❄️bear: - :penguin: 
+**Polar bears live  (Arctic Region, the North Pole) in the opposite side of the Earth from penguins (Southern Hemisphere, Antarctic, the South Pole), so they never get to meet each other** 🐻‍❄️bear: - :penguin: 
